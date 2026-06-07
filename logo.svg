@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" role="img" aria-label="Geobet Oil Services">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d3222a" />
+      <stop offset="100%" stop-color="#0b4d8f" />
+    </linearGradient>
+  </defs>
+  <rect width="240" height="80" rx="18" fill="#021731" />
+  <path d="M38 62 L52 24 L68 62" fill="none" stroke="url(#g)" stroke-width="10" stroke-linecap="round" />
+  <path d="M80 36 H98 M80 46 H98" stroke="#f8f9ff" stroke-width="8" stroke-linecap="round" />
+  <text x="110" y="52" fill="#f8f9ff" font-family="Segoe UI, sans-serif" font-size="24" font-weight="700">GEOBET</text>
+</svg>
